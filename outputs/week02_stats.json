@@ -1,0 +1,93 @@
+{
+    "num_sentences": 30,
+    "avg_length": 46.333333333333336,
+    "top_tokens": [
+        [
+            "the",
+            18
+        ],
+        [
+            "i",
+            13
+        ],
+        [
+            "to",
+            6
+        ],
+        [
+            "more",
+            5
+        ],
+        [
+            "me",
+            4
+        ],
+        [
+            "programming",
+            4
+        ],
+        [
+            "movie",
+            4
+        ],
+        [
+            "course",
+            3
+        ],
+        [
+            "and",
+            3
+        ],
+        [
+            "python",
+            3
+        ],
+        [
+            "from",
+            3
+        ],
+        [
+            "helps",
+            3
+        ],
+        [
+            "learning",
+            3
+        ],
+        [
+            "but",
+            3
+        ],
+        [
+            "my",
+            3
+        ],
+        [
+            "is",
+            2
+        ],
+        [
+            "learned",
+            2
+        ],
+        [
+            "this",
+            2
+        ],
+        [
+            "difficult",
+            2
+        ],
+        [
+            "concepts",
+            2
+        ]
+    ],
+    "longest_examples": [
+        "Reading technical articles improves my understanding of AI.",
+        "I think the course could include more real-world examples.",
+        "The teacher explains difficult concepts very clearly.",
+        "I sometimes find programming difficult but rewarding.",
+        "I learned many useful Python skills from this class."
+    ]
+}
